@@ -21,7 +21,6 @@
     "electron": "^26.4.0"
   },
   "dependencies": {
-    "@mediapipe/tasks-vision": "^0.10.0",
     "electron-squirrel-startup": "^1.0.0"
   }
 }
